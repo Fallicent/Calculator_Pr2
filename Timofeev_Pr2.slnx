@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CalcTests/CalcTests.csproj" Id="a9603aa9-d8ac-4ad2-9892-c461c8888570" />
+  <Project Path="Timofeev_lib/Timofeev_lib.csproj" Id="223354c1-6b4c-41ab-9edf-0386a162b0ce" />
+  <Project Path="Timofeev_Pr2/Timofeev_Pr2.csproj" Id="bd1f363f-c52f-4df6-9baf-05d3debaf83f" />
+</Solution>
